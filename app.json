@@ -2,7 +2,7 @@
   "name": "singo-2",
   "description": "singo-2",
   "keywords": [
-    "vmess or vles"
+    "singo-2"
   ],
   "env": {
     "PROTOCOL": {
